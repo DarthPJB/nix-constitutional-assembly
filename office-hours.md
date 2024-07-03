@@ -8,7 +8,7 @@ The time slots are
 - Ryan Trinkle / @ryantrinkle: Monday [14:00 UTC](https://time.is/1400_in_UTC)
 - Silvan Mosberger / @infinisil: Tuesday [19:00 UTC](https://time.is/1900_in_UTC)
 - Michael Raskin / @7c6f434c: Wednesay [21:00 UTC](https://time.is/2100_in_UTC)
-- @lassulus: Thursday [16:00 CEST](https://time.is/1600_in_UTC)
+- @lassulus: Thursday [16:00 UTC](https://time.is/1600_in_UTC)
 
 Meeting link: https://jitsi.lassul.us/nca-personal-weekly
 
